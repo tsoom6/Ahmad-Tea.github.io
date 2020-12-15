@@ -1,0 +1,113 @@
+div{
+  position: relative;
+}
+header{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(10.jpg) top center / cover no-repeat;
+  height:100vh;
+}
+
+.box4{
+  position: absolute;
+  background-color:#A4A4A4;
+  width: 600px;
+  height: 600px;
+  left: 450px;
+  top:100px;
+}
+h1{
+  position: absolute;
+  left: 120px;
+}
+.za1{
+  border: none;
+
+  position:absolute;
+  left:120px;
+  top:80px;
+  width: 200px;
+  height: 40px;
+
+  border-bottom: 2px solid black;
+  font-size: 18px;
+}
+.za2{
+  border: none;
+  position:absolute;
+  left:120px;
+  top:140px;
+  width: 200px;
+  height: 40px;
+
+  border-bottom: 2px solid black;
+  font-size: 18px;
+}
+.za3{
+  border: none;
+  position:absolute;
+  left:120px;
+  top:200px;
+  width: 200px;
+  height: 40px;
+
+  border-bottom: 2px solid black;
+  font-size: 18px;
+}
+.za5{
+  position:absolute;
+  left:120px;
+  top:260px;
+  font-size: 18px;
+}
+.za4{
+  position:absolute;
+  left:120px;
+  top:300px;
+  width: 400px;
+  height: 100px;
+}
+.za6{
+  position:absolute;
+  left:120px;
+  top:520px;
+  width: 200px;
+  height: 40px;
+  font-size: 18px;
+}
+.za6:hover{
+  background: #2E2EFE;
+}
+.box5{
+  position: absolute;
+  height: 600px;
+  width:400px;
+  left: 50px;
+  top:100px;
+}
+h2{
+  position: absolute;
+  left: 50px;
+  top:30px;
+  font-size: 40px;
+  color: white;`
+}
+.za7{
+  position: absolute;
+  left: 80px;
+  top:120px;
+  font-size: 30px;
+  color: white;`
+}
+.za8{
+
+}
+.za9{
+
+}
+.zurag1{
+  float: left;
+  position: absolute;
+  left:20px;
+  top:-600px;
+  height: 100px;
+  width: 200px;
+}
